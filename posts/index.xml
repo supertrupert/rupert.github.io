@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Rupert Arnold Hoffschmidt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Mar 2021 21:25:54 +0100</lastBuildDate><atom:link href="https://rupert.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 22:14:28 +0100</lastBuildDate><atom:link href="https://rupert.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Owning your content</title>
+      <link>https://rupert.xyz/posts/owncontent/</link>
+      <pubDate>Mon, 22 Mar 2021 22:14:28 +0100</pubDate>
+      
+      <guid>https://rupert.xyz/posts/owncontent/</guid>
+      <description>The usual places to create a simple webiste or blog are Wix, Squarespace, Tumblr, Wordpress, Webflow and many more. Most of these are targeted towards people who have no interest in learning web development. People who are first and foremost content creators. I think these services are great and have opened up possibilities tremendously.
+But there is a big downside with most of the hosted services: you don&amp;rsquo;t own your content or at least you can&amp;rsquo;t migrate easily.</description>
+    </item>
+    
     <item>
       <title>COVID Denial</title>
       <link>https://rupert.xyz/posts/denial/</link>
